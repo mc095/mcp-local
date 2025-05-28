@@ -1,38 +1,10 @@
 [
   {
-    "title": "hello-world",
     "role": "user",
-    "content": "Hello",
-    "timestamp": "2025-05-28 04:33:07"
+    "content": "hey. do you about F1"
   },
   {
-    "title": "hello-world",
     "role": "assistant",
-    "content": "Hi! I'm your tutor today! I'm here to help you with any questions or concerns you might have. What subject are you working on?",
-    "timestamp": "2025-05-28 04:33:08"
-  },
-  {
-    "title": "hello-world",
-    "role": "user",
-    "content": "I'm Preparing for my DSA Exam",
-    "timestamp": "2025-05-28 04:34:21"
-  },
-  {
-    "title": "hello-world",
-    "role": "assistant",
-    "content": "The DSA (Data Structures and Algorithms) exam! That's a great topic. What specific areas of DSA are you struggling with or would like to review? Are you stuck on a particular algorithm, data structure, or problem-solving approach? Let me know, and I'll do my best to help you out!",
-    "timestamp": "2025-05-28 04:34:22"
-  },
-  {
-    "title": "hello-world",
-    "role": "user",
-    "content": "Hey I'm back",
-    "timestamp": "2025-05-28 04:34:53"
-  },
-  {
-    "title": "hello-world",
-    "role": "assistant",
-    "content": "Welcome back! You were preparing for your DSA exam, right? Where did we leave off last time? Do you have a specific topic or problem in mind that you'd like to work on or discuss? I'm here to help you refresh your memory or tackle any struggles you're having.",
-    "timestamp": "2025-05-28 04:34:54"
+    "content": "Formula 1 (F1) is a huge global phenomenon, with a massive following. I'd be happy to chat with you about it!\n\nWhat would you like to discuss? Are you a fan of a particular team, driver, or era? Are you interested in the technical side of F1, like car design and engineering? Or maybe you're curious about the politics and controversies that often surround the sport?\n\nLet me know, and I'll do my best to engage in a lively conversation about F1 with you!"
   }
 ]
