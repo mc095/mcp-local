@@ -18,5 +18,10 @@
     "id": "568ecb0d-65b7-491d-8ae6-c2692bfacd3e",
     "role": "assistant",
     "content": "Hey there! How's it going?"
+  },
+  {
+    "id": "87f90c63-f9b9-4a70-bff7-7387931c799f",
+    "role": "user",
+    "content": "I'm good. I'm happy"
   }
 ]
