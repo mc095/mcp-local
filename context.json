@@ -1,12 +1,1 @@
-[
-  {
-    "id": "8c9854e2-0ba5-4b96-b0a0-960f4a5e7029",
-    "role": "system",
-    "content": "Fact: closely related to dolphins and porpoises."
-  },
-  {
-    "id": "5053fa7f-333d-49e0-8023-ad0ec3506999",
-    "role": "system",
-    "content": "Fact: indeed majestic and awe-inspiring creatures."
-  }
-]
+[]
