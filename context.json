@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "9b975c63-fd1a-4841-81e3-fc0ba342c485",
+    "role": "assistant",
+    "content": "It was nice chatting with you! Feel free to come back anytime to discuss DSA or anything else. Bye for now!"
+  },
+  {
+    "id": "54d80fe8-88dc-4e4c-9066-67815de928d4",
+    "role": "user",
+    "content": "Cool. Umm,. Let's talk later, bye"
+  },
+  {
+    "id": "e42a0830-1f30-4130-ad52-edf6882a6afc",
+    "role": "user",
+    "content": "Bubble sort"
+  },
+  {
+    "id": "f18298e6-7036-4cb0-8616-92678c083502",
+    "role": "assistant",
+    "content": "Here's a brief overview of Bubble Sort:\n\n**Bubble Sort**\n\n* Simple sorting algorithm\n* Works by repeatedly swapping adjacent elements if they are in wrong order\n* Time complexity: O(n^2)\n\nDo you want the code for Bubble Sort in a specific programming language?"
+  },
+  {
+    "id": "623e935e-b8e9-43e3-80d5-a3d57a215289",
+    "role": "user",
+    "content": "Let's start with Sorting"
+  },
+  {
+    "id": "33e170b7-63d2-4b2e-9987-d288eb27c37a",
+    "role": "assistant",
+    "content": "Sorting is a fundamental concept in DSA. Here are some popular sorting algorithms:\n\n1. Bubble Sort\n2. Selection Sort\n3. Insertion Sort\n4. Merge Sort\n5. Quick Sort\n\nWhich one would you like to start with?"
+  },
+  {
+    "id": "bcce61c0-3756-40ec-a039-5eaafba3e7e5",
+    "role": "assistant",
+    "content": "DSA stands for Data Structures and Algorithms. It's a fundamental concept in programming. What specific topics or areas of DSA would you like to learn?"
+  },
+  {
+    "id": "af2dbbda-0cea-467a-81a7-40c8420df824",
+    "role": "user",
+    "content": "I wanna learn DSA"
+  },
+  {
+    "id": "3998da8e-0a95-460d-9079-2a11537a211f",
+    "role": "assistant",
+    "content": "Hello!"
+  },
+  {
+    "id": "67f2487e-cd93-4c5b-a073-2d67468cbedd",
+    "role": "user",
+    "content": "Hey there!"
+  }
+]
