@@ -1,32 +1,52 @@
 [
   {
-    "id": "70313511-1155-468f-b36e-92f487be79d7",
+    "id": "7b8a4948-ade4-453d-8856-300bcb16f9f0",
     "role": "user",
     "content": "hello"
   },
   {
-    "id": "eba157b6-df3c-4e69-b956-dbdcfb9111b1",
+    "id": "0b0faa36-336d-41c7-9080-b2de1ecc748d",
     "role": "assistant",
     "content": "Hello! It's nice to meet you. Is there something I can help you with, or would you like to chat?"
   },
   {
-    "id": "3f8406bf-683b-4a49-802e-af6a751a7286",
+    "id": "21e68a9d-93cf-4d0a-b099-f08fa58a4d07",
     "role": "assistant",
     "content": "That's great to hear! It's always nice to have a good day. Is there anything in particular that's making your day good, or is it just a general feeling? I'm happy to listen if you want to chat about it!"
   },
   {
-    "id": "55a69de6-2f98-4496-82cf-7cd2e035c952",
+    "id": "23dc3f73-9c98-4898-9221-fdd94c6f5d64",
     "role": "assistant",
     "content": "Awesome choice! Interstellar is a thought-provoking and visually stunning movie, isn't it? I'm glad it made you happy! It's always great to find movies that resonate with us and leave us feeling uplifted.\n\nDid you have a favorite part or scene in the movie? I'm curious to know what stood out to you!"
   },
   {
-    "id": "22d2bebd-8f64-47cd-83d9-a0430eba99f9",
+    "id": "45f76c32-fe15-4d01-96d5-be4b7b229842",
     "role": "assistant",
     "content": "That's one of the most iconic and emotional parts of the movie! Cooper's journey through the void is a powerful and poignant scene. Seeing him say goodbye to Murph and watching him float in the vast emptiness of space is a gut-wrenching moment. It's a reminder of the sacrifices he's making for the future of humanity and the distance that exists between him and the people he loves.\n\nAnd then, of course, the scene is made even more emotional by the discovery of the tesseract and the message from Murph in the past. It's a beautiful and clever way to show that even in the vastness of space and time, humanity is always connected and that love can transcend even the most impossible distances.\n\nWhat did you think of that scene? Did it move you to tears or did it give you a sense of wonder and awe?"
   },
   {
-    "id": "7595daac-8dd3-4caa-ad87-c2e2192e5756",
+    "id": "9113c6c2-3e9b-467d-9506-900727eb74e4",
     "role": "assistant",
     "content": "It was nice chatting with you about Interstellar. Feel free to text me later, and we can continue the conversation whenever you'd like. Have a great day and I'll catch you later!"
+  },
+  {
+    "id": "cb00330b-f06e-4491-902d-c333977ff809",
+    "role": "system",
+    "content": "User preference: to chat about?"
+  },
+  {
+    "id": "1e20f5b1-b0be-4b88-9e92-a3135ac00858",
+    "role": "system",
+    "content": "Fact: patrick acting was super cool"
+  },
+  {
+    "id": "700901c4-2d7d-4578-9d4e-d65d8e7e60c3",
+    "role": "system",
+    "content": "User preference: the dark knight trilogy,"
+  },
+  {
+    "id": "b0a5bf4e-6569-4f6f-a7e0-22aa52e786cc",
+    "role": "system",
+    "content": "User interest: me again. have a"
   }
 ]
