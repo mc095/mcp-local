@@ -10,5 +10,17 @@
     "role": "assistant",
     "content": "Hi! I'm your tutor today! I'm here to help you with any questions or concerns you might have. What subject are you working on?",
     "timestamp": "2025-05-28 04:33:08"
+  },
+  {
+    "title": "hello-world",
+    "role": "user",
+    "content": "I'm Preparing for my DSA Exam",
+    "timestamp": "2025-05-28 04:34:21"
+  },
+  {
+    "title": "hello-world",
+    "role": "assistant",
+    "content": "The DSA (Data Structures and Algorithms) exam! That's a great topic. What specific areas of DSA are you struggling with or would like to review? Are you stuck on a particular algorithm, data structure, or problem-solving approach? Let me know, and I'll do my best to help you out!",
+    "timestamp": "2025-05-28 04:34:22"
   }
 ]
