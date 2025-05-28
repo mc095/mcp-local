@@ -10,5 +10,17 @@
     "role": "assistant",
     "content": "Hello! Welcome to our tutoring session today. How are you doing and what subject(s) would you like to work on?",
     "timestamp": "2025-05-28 03:28:36"
+  },
+  {
+    "title": "hello-world",
+    "role": "user",
+    "content": "Computer Science",
+    "timestamp": "2025-05-28 03:29:11"
+  },
+  {
+    "title": "hello-world",
+    "role": "assistant",
+    "content": "Computer Science, that's a great subject. What specific area of Computer Science would you like to focus on during our session? Is it Programming (e.g. Python, Java, C++), Data Structures, Algorithms, Computer Architecture, or something else like Web Development or Database Systems?\n\nAlso, do you have a specific problem or topic you're struggling with, or a project you're working on and need help with?",
+    "timestamp": "2025-05-28 03:29:11"
   }
 ]
