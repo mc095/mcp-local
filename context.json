@@ -8,5 +8,10 @@
     "id": "6053b50f-6a93-4aa3-9bc0-6270309b3ac9",
     "role": "system",
     "content": "Hello! It's nice to meet you. Is there something I can help you with, or would you like to chat?"
+  },
+  {
+    "id": "ef42d76f-4f0f-4e95-af0c-9c1264926015",
+    "role": "user",
+    "content": "Hey buddy"
   }
 ]
