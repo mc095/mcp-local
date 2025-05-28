@@ -1,7 +1,7 @@
 [
   {
     "role": "user",
-    "content": "Hello"
+    "content": "Hello there"
   },
   {
     "role": "assistant",
