@@ -44,7 +44,7 @@ python main.py
 
 ## Documentation
 - Check out the architecture diagram above for a detailed view of the system design
-- Watch the [demo video](https://www.linkedin.com/posts/activity-7333469120866172928-h0Tv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIsd7wB71woMUIyJQYneeIj6Dl_o4zwWq4) above to see the system in action
+- Watch the [demo video](https://www.linkedin.com/posts/activity-7333469120866172928-h0Tv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIsd7wB71woMUIyJQYneeIj6Dl_o4zwWq4) to see the system in action
 
 ## Technical Details
 The project implements a sophisticated multi-context processing system that:
