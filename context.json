@@ -23,5 +23,10 @@
     "id": "87f90c63-f9b9-4a70-bff7-7387931c799f",
     "role": "user",
     "content": "I'm good. I'm happy"
+  },
+  {
+    "id": "571ab1ff-7c0d-4fa7-94a6-4b999d3453a3",
+    "role": "assistant",
+    "content": "That's great to hear! It's always wonderful to feel good and happy. Sometimes it's the little things in life that can bring us joy, and it sounds like you're feeling grateful for that right now. Is there anything in particular that's making you feel good or happy today?"
   }
 ]
