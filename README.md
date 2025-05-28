@@ -15,9 +15,6 @@ I've developed this Multi-Context Processing (MCP) system to handle and process 
 ## System Architecture
 ![System Architecture](public/arch.png)
 
-## Demo Video
-https://github.com/mc095/mcp-local/blob/main/public/demo.mp4
-
 ## Getting Started
 
 ### Prerequisites
