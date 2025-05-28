@@ -22,5 +22,17 @@
     "role": "assistant",
     "content": "Computer Science, that's a great subject. What specific area of Computer Science would you like to focus on during our session? Is it Programming (e.g. Python, Java, C++), Data Structures, Algorithms, Computer Architecture, or something else like Web Development or Database Systems?\n\nAlso, do you have a specific problem or topic you're struggling with, or a project you're working on and need help with?",
     "timestamp": "2025-05-28 03:29:11"
+  },
+  {
+    "title": "hello-world",
+    "role": "user",
+    "content": "I'll learn later. Thanks. Bye",
+    "timestamp": "2025-05-28 03:29:32"
+  },
+  {
+    "title": "hello-world",
+    "role": "assistant",
+    "content": "You're welcome! It was nice trying to get started with a computer science tutoring session. If you ever need help or want to discuss a specific topic in the future, feel free to reach out. Have a great day!",
+    "timestamp": "2025-05-28 03:29:33"
   }
 ]
