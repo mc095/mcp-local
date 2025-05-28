@@ -13,5 +13,10 @@
     "id": "ef42d76f-4f0f-4e95-af0c-9c1264926015",
     "role": "user",
     "content": "Hey buddy"
+  },
+  {
+    "id": "568ecb0d-65b7-491d-8ae6-c2692bfacd3e",
+    "role": "assistant",
+    "content": "Hey there! How's it going?"
   }
 ]
