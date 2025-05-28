@@ -3,5 +3,10 @@
     "id": "f80f234e-a1ad-4d83-81d3-31c1c2c3551d",
     "role": "system",
     "content": "Hello! It's nice to meet you. Is there something I can help you with, or would you like to chat?"
+  },
+  {
+    "id": "6053b50f-6a93-4aa3-9bc0-6270309b3ac9",
+    "role": "system",
+    "content": "Hello! It's nice to meet you. Is there something I can help you with, or would you like to chat?"
   }
 ]
