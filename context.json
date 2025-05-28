@@ -22,5 +22,17 @@
     "role": "assistant",
     "content": "The DSA (Data Structures and Algorithms) exam! That's a great topic. What specific areas of DSA are you struggling with or would like to review? Are you stuck on a particular algorithm, data structure, or problem-solving approach? Let me know, and I'll do my best to help you out!",
     "timestamp": "2025-05-28 04:34:22"
+  },
+  {
+    "title": "hello-world",
+    "role": "user",
+    "content": "Hey I'm back",
+    "timestamp": "2025-05-28 04:34:53"
+  },
+  {
+    "title": "hello-world",
+    "role": "assistant",
+    "content": "Welcome back! You were preparing for your DSA exam, right? Where did we leave off last time? Do you have a specific topic or problem in mind that you'd like to work on or discuss? I'm here to help you refresh your memory or tackle any struggles you're having.",
+    "timestamp": "2025-05-28 04:34:54"
   }
 ]
