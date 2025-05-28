@@ -3,12 +3,12 @@
     "title": "hello-world",
     "role": "user",
     "content": "Hello",
-    "timestamp": "2025-05-28 03:06:29"
+    "timestamp": "2025-05-28 03:28:35"
   },
   {
     "title": "hello-world",
     "role": "assistant",
-    "content": "Hello! It's great to meet you. How are you doing today? Do you have any specific topics or subjects you'd like to work on or discuss? I'm here to help with any questions you might have or provide guidance on a particular topic. What's on your mind?",
-    "timestamp": "2025-05-28 03:06:30"
+    "content": "Hello! Welcome to our tutoring session today. How are you doing and what subject(s) would you like to work on?",
+    "timestamp": "2025-05-28 03:28:36"
   }
 ]
