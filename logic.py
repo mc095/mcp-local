@@ -413,7 +413,7 @@ def query_llama(prompt):
         # Get response from LLaMA with context
         response = client.chat.completions.create(
             messages=conversation,
-            model="llama3-8b-8192",
+            model="llama-3.1-8b-instant",
             temperature=0.7,
             max_tokens=256,  # Reduced from 1024 to 256
         )
